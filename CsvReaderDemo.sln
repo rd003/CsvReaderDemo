@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsvReaderDemo", "CsvReaderDemo\CsvReaderDemo.csproj", "{B8A8901C-3433-490C-9221-456DD8D64C90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8A8901C-3433-490C-9221-456DD8D64C90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8A8901C-3433-490C-9221-456DD8D64C90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8A8901C-3433-490C-9221-456DD8D64C90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8A8901C-3433-490C-9221-456DD8D64C90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E8BA6EC-7137-4125-8A6F-5D5596D92E38}
+	EndGlobalSection
+EndGlobal
